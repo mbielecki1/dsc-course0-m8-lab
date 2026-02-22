@@ -18,3 +18,25 @@ Of note, Defining an Airplane.Type as "Small" if there are less than 20 passenge
 
 
 ![Distribution of Fatal/Serious Injury Fraction for Large Airplanes\n10 Safest Makes](image-2.png)
+
+
+**Recommendation for safest Make-Models of "Large" Airplanes (20 or more total people on the flight):**
+-	We see that Boeing has 8 total models (out of 14 total) with low percentages of Serious/Fatal injuries.  The safest models appear to be the **Boeing 777, 757, 787, and 737-7h4** models, all with less than a -.33% Serious /Fatal injury rate.
+-	**Bombardier’s cl-600-2b19 and Embraer’s emb145** are also recommended as they had less than a 1.0% Serious/Fatal injury rate.
+
+**Recommendation for safest Make-Models of "Small" Airplanes (less than 20 total people on the flight):**
+-	Of the 10 “Small” Make-Models with the lowest percentage of Serious/Fatal injuries, 5x had zero Serious Fatal injuries, and would all be recommended.  These include the **Boeing 777, Maule m-5-210c, Diamond Aircraft Ind - da 20 c1, Boeing 787, and Boeing 737-800**.
+
+
+![Distribution of Fatal/Serious Injury Percentages for Large Airplanes (≥10 Flights per Make -- Model)](image-3.png)
+
+![Distribution of Fatal/Serious Injury Percentages for Small Airplanes \n(≥10 Flights per Make -- Model)](image-4.png)
+
+
+**Recommendation for safest Aircraft based on their `Engine Type`**:
+- **`Turbo Fan` would be the most recommended Engine Type** as it had the second lowest Serious/Fatal injury rate after the Turbo Shaft, but also had the 2nd most flight records of any Engine Type in the dataset.  
+- While we see in our plot that the `Turbo Shaft` Engine Type has never been recorded to have had an accident, closer inspection reveals that our dataset only has one record with a Turbo Shaft engine, so this is not statistically significant. 
+
+![Distribution of Fatal/Serious Injury Percentages per Engine Type](image-5.png)
+
+![Distribution of Fatal/Serious Injury Percentages by Purpose of Flight](image-6.png)
